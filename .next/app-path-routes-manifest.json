@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/projects/[projectId]/conventions/[category]/[...titleParts]/page": "/projects/[projectId]/conventions/[category]/[...titleParts]",
+  "/projects/[projectId]/conventions/page": "/projects/[projectId]/conventions",
+  "/projects/[projectId]/domains/[service]/[name]/page": "/projects/[projectId]/domains/[service]/[name]",
+  "/projects/[projectId]/domains/graph/page": "/projects/[projectId]/domains/graph",
+  "/projects/[projectId]/domains/page": "/projects/[projectId]/domains",
+  "/projects/[projectId]/notes/[noteId]/page": "/projects/[projectId]/notes/[noteId]",
+  "/projects/[projectId]/notes/page": "/projects/[projectId]/notes",
+  "/projects/[projectId]/page": "/projects/[projectId]",
+  "/projects/[projectId]/settings/page": "/projects/[projectId]/settings"
+}

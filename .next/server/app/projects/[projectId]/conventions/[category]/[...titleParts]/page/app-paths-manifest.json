@@ -1,0 +1,3 @@
+{
+  "/projects/[projectId]/conventions/[category]/[...titleParts]/page": "app/projects/[projectId]/conventions/[category]/[...titleParts]/page.js"
+}
